@@ -8,7 +8,7 @@ import com.qualcomm.robotcore.util.Hardware;
 import com.qualcomm.robotcore.util.Range;
 
 public class DriveBase {
-    //Test
+    //Elliot smells
     private DcMotor leftTopMotor;
     private DcMotor leftBottomMotor;
     private DcMotor rightTopMotor;
